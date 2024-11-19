@@ -18,7 +18,7 @@ br.addheaders = [('User-Agent', 'Opera/9.80 (Android; Opera Mini/32.0.2254/85. U
 
 def keluar():
 	print "\033[1;96m[!] \x1b[1;91mExit"
-	os.sys.exit()
+	os.sys.exit()i
 	
 	
 def acak(x):
@@ -56,7 +56,7 @@ def tik():
 
 
 back = 0
-threads = []
+threads = []ii
 berhasil = []
 cekpoint = []
 oks = []
